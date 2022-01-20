@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import rc
+import numpy as np
 
 rc('font', family='HCR Dotum')
 
