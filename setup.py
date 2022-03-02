@@ -21,6 +21,7 @@ setup(name='pyalgae_ai',
           'toolz',
           'sklearn',
           'matplotlib',
-          'joblib'
+          'joblib',
+          'hydroeval'
           ],
       include_package_data=True)
