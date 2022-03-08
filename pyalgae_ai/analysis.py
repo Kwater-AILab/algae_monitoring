@@ -116,7 +116,7 @@ def algae_monitor(input_sentinel, label_algae, input_col = [], model_list=["RF"]
                     else:
                         print("Please change the method. There are options: 'RF', 'GBR', and 'XGB' in the current version")
         
-            results.append(result)
+                    results.append(result)
 
     return results
 
