@@ -25,6 +25,7 @@ setup(name='pyalgae_ai',
           'hydroeval',
           'geopandas',
           'folium',
-          'sentinelsat'
+          'sentinelsat',
+          'seaborn'
           ],
       include_package_data=True)
