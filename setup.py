@@ -5,9 +5,9 @@ from setuptools import setup, find_packages
 setup(name='pyalgae_ai',
       version=versioneer.get_version(),
       cmdclass=versioneer.get_cmdclass(),
-      description='A python library to predict alage using machine learning',
+      description='A python library to analyze alage on reserviors using Sentinel-2 and machine learning',
       url='https://github.com/Kwater-AILab/algae_prediction.git',
-      author='JiYoung Jung, YoungDon Choi',
+      author='JiYoung Jung, HyunJun Jang, YoungDon Choi',
       author_email='choiyd1115@gmail.com',
       license='MIT',
       packages=find_packages(),
@@ -22,6 +22,9 @@ setup(name='pyalgae_ai',
           'sklearn',
           'matplotlib',
           'joblib',
-          'hydroeval'
+          'hydroeval',
+          'geopandas',
+          'folium',
+          'sentinelsat'
           ],
       include_package_data=True)
