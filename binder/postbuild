@@ -1,2 +1,0 @@
-git clone https://github.com/Kwater-AILab/algae_monitoring.git \
-  && cd algae_monitoring && pip install .
