@@ -4,6 +4,6 @@
 
 1. 먼저 아래의 "launch binder"를 클릭해주세요.
 
-   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/algae_monitoring.git/HEAD)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)
 
 2. 잠시후 JupyterLab이 실행되면, notebooks 폴더에서 Jupyter Notebook 파일을 실행해서 절차에 따라서 Python 코드를 실행하세요
