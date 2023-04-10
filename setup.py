@@ -12,7 +12,6 @@ setup(name='pyalgae_ai',
       license='MIT',
       packages=find_packages(),
       install_requires=[
-          'tensorflow',
           'xgboost',
           'pandas',
           'matplotlib',
